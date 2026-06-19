@@ -80,9 +80,36 @@ O projeto demonstra que é possível detectar fraudes com alta precisão utiliza
 
 ## 🔮 Próximos Passos
 
+
+## 🚀 Como Executar
+
+1. Acesse o Google Colab
+2. Faça upload do notebook
+3. Execute todas as células
+4. Visualize os resultados
+
+**Ou execute diretamente no Colab:**
+
+https://colab.research.google.com/drive/1i-ugfCzAT1uirz8D_Ur8R2yw0ULZERQc?usp=sharing
+## 👤 Autor
+
+**Janilucia Gomes**
+- Linkedin: https://linkedin.com/in/janilucia-gomes-82369b2a7
+- GitHub: https://github.com/Jhanydev/deteccao-anomalias-transacoes/edit/main/README.md
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+**Desenvolvido para o Bootcamp da DIO - Digital Innovation One**
+
+
+
 - Implementar validação cruzada
 - Testar LightGBM e CatBoost
 - Deploy do modelo em produção
 - Monitoramento contínuo
 
-## 📂 Estrutura do Projeto
+
